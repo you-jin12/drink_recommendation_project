@@ -1,1 +1,1 @@
-# drink_recommendation_project
+사용자의 상태와 선호도 기반 음료 추천 서비스
